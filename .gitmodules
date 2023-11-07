@@ -1,0 +1,3 @@
+[submodule "mydsp~"]
+	path = mydsp~
+	url = https://github.gatech.edu/sjeffres3/mydsp23.git
